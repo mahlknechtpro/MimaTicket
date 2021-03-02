@@ -1,0 +1,15 @@
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\bin\Debug\MimaTicket.exe.config
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\bin\Debug\MimaTicket.exe
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\bin\Debug\MimaTicket.pdb
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MimaTicket.csprojAssemblyReference.cache
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MainWindow.g.cs
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\App.g.cs
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MimaTicket_MarkupCompile.cache
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MimaTicket_MarkupCompile.lref
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MainWindow.baml
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MimaTicket.g.resources
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MimaTicket.Properties.Resources.resources
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MimaTicket.csproj.GenerateResource.cache
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MimaTicket.csproj.CoreCompileInputs.cache
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MimaTicket.exe
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MimaTicket.pdb

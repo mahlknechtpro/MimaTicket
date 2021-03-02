@@ -5,8 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MimaTicket"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MimaTicket" Height="600" Width="800">
     <Grid>
+        <DockPanel>
+        <ToolBarTray DockPanel.Dock="Top">
+                <ToolBar>
+                    <Button Command="New" Content="New" />
+                    <!--<Button Command="View" Content="View" />-->
+                </ToolBar>
+            </ToolBarTray>
+        </DockPanel>
+    
         
     </Grid>
 </Window>
