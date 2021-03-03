@@ -10,25 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace MimaTicket
 {
     /// <summary>
-    /// Interaktionslogik für MainWindow.xaml
+    /// Interaktionslogik für NewTicket.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class NewTicket : Window
     {
-        public MainWindow()
+        public NewTicket()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            NewTicket n = new NewTicket();
-            n.Show();
         }
     }
 }
