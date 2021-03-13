@@ -30,3 +30,5 @@ D:\Projects\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MimaTicket.exe
 D:\Projects\MimaTicket\MimaTicket\MimaTicket\obj\Debug\MimaTicket.pdb
 D:\Projects\MimaTicket\MimaTicket\MimaTicket\obj\Debug\NewTicket.g.cs
 D:\Projects\MimaTicket\MimaTicket\MimaTicket\obj\Debug\NewTicket.baml
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\NewTicket.g.cs
+D:\Patrick\GitHub\MimaTicket\MimaTicket\MimaTicket\obj\Debug\NewTicket.baml

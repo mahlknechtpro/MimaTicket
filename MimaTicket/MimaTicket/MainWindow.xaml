@@ -21,7 +21,7 @@
         <Button Height="20" Width="50" HorizontalAlignment="Left" Margin="10,0,0,0" Content="Refresh"/>
         <Button Height="20" Width="50" HorizontalAlignment="Left" Margin="70,0,0,0" Content="New" Click="Button_Click"/>
         <Label  HorizontalAlignment="Left" VerticalAlignment="Center" Margin="200,0,0,0" Content="Date:"></Label>
-        <TextBlock  Height="20" Width="65" HorizontalAlignment="Left" Margin="240,0,0,0" ></TextBlock>
+        <TextBox  Height="20" Width="65" HorizontalAlignment="Left" Margin="240,0,0,0" ></TextBox>
         <Button Height="20" Width="50" HorizontalAlignment="Left" Margin="310,0,0,0" Content="Tickets"/>
 
     </Grid>

@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="Create new ticket" Height="450" Width="800">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Column="0" Grid.Row="1" Width="60" Height="20" Margin="700,5,10,5" Content="Cancel" Click="Button_Click"></Button>
+        <Button Grid.Column="0" Grid.Row="1" Width="60" Height="20" Margin="570,5,10,5" Content="Save"></Button>
     </Grid>
 </Window>
