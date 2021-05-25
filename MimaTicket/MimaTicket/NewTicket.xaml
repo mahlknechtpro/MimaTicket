@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MimaTicket"
         mc:Ignorable="d"
-        Title="Create new ticket" Height="450" Width="800">
-    <Grid>
+        Title="Create new ticket" Height="300" Width="500">
+    <Grid Margin="0,0,2,2">
         <Grid.ColumnDefinitions>
             <ColumnDefinition />
         </Grid.ColumnDefinitions>
@@ -15,12 +15,14 @@
             <RowDefinition Height="30"/>
         </Grid.RowDefinitions>
 
-        <Label></Label>
-        <TextBox></TextBox>
-        <Label></Label>
-        <TextBox></TextBox>
+        <Label  Height="30" FontWeight="ExtraBold" Width="120" Content="Worker" Margin="70,25,300,180"></Label>
+        <ComboBox Height="30" Width="120" Margin="205,26,165,181" />
 
-        <Button Grid.Column="0" Grid.Row="1" Width="60" Height="20" Margin="700,5,10,5" Content="Cancel" Click="Button_Click"></Button>
-        <Button Grid.Column="0" Grid.Row="1" Width="60" Height="20" Margin="570,5,10,5" Content="Save"></Button>
+        <Label  Height="30" FontWeight="ExtraBold" Width="120" Content="Ticket-Nr" Margin="70,80,300,127"></Label>
+        <TextBox Height="30" Width="120" Margin="205,80,165,127" />
+
+
+        <Button Grid.Column="0" Grid.Row="1" Width="60" Height="20" Margin="410,5,20,5" Content="Cancel" Click="Button_Click"></Button>
+        <Button Grid.Column="0" Grid.Row="1" Width="60" Height="20" Margin="340,5,80,5" Content="Save"></Button>
     </Grid>
 </Window>
